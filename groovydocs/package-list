@@ -1,2 +1,5 @@
+com.citytechinc.aem.groovy.extension.api
 com.citytechinc.aem.groovy.extension.builders
 com.citytechinc.aem.groovy.extension.metaclass
+com.citytechinc.aem.groovy.extension.services
+com.citytechinc.aem.groovy.extension.services.impl
